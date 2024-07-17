@@ -1,5 +1,5 @@
 ## Hi there 👋
-<br><br> 
+
 Front End Developer <br> 
 Freelancer
 
