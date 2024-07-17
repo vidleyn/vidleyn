@@ -1,4 +1,7 @@
 ## Hi there 👋
+<br><br> 
+Front End Developer <br> 
+Freelancer
 
 <!--
 **vidleyn/vidleyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
