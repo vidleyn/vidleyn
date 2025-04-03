@@ -2,7 +2,7 @@
 
 <h2 align="center">Frontend developer</h2>
 
-- I develop websites and web applications
+- I'm a frontend developer and UX/UI designer
 - E-mail: <olendavsellen@gmail.com>
 - Telegram: <a href="https://t.me/davidleyn">davidleyn</a> 
 
