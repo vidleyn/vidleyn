@@ -4,7 +4,7 @@
 
 - I develop websites and web applications
 - E-mail: <olendavsellen@gmail.com>
-- Telegram: <a href="https://t.me/davidoleynich">davidoleynich</a> 
+- Telegram: <a href="https://t.me/davidleyn">davidleyn</a> 
 
 <h2></h2>
 <div>
