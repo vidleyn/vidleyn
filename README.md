@@ -8,7 +8,7 @@
 📩 **E-mail:** olendavsellen@gmail.com  
 💬 **Telegram:** [@davidleyn](https://t.me/davidleyn)  
 
----
+##
 
 ### 🛠 Tech Stack
 
