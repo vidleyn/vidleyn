@@ -1,7 +1,4 @@
-<h1 align="center">𝗛𝗶, 𝗜'𝗺 𝗗𝗮𝘃𝗶𝗱</h1>
-<h2 align="center">Frontend Developer</h2>
-
----
+# 𝗛𝗶, 𝗜'𝗺 𝗗𝗮𝘃𝗶𝗱
 
 ### 👋 About Me
 - Frontend developer
